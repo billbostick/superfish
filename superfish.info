@@ -1,0 +1,6 @@
+; $Id:$
+name = Superfish Menus
+description = jQuery drop-down menus with animation and UI enhancments
+dependencies = menu jquery_update
+version = "5.x-1.0"
+
